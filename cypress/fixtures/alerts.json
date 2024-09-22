@@ -1,0 +1,20 @@
+{
+  "success": {
+    "signUp": "Sign up successful."
+  },
+
+  "error": {
+    "registration": {
+      "existedUser": "This user already exist.",
+      "emptyFields": "Please fill out Username and Password."
+    },
+
+    "login": {
+      "invalidUsername": "User does not exist.",
+      "invalidPassword": "Wrong password.",
+      "emptyFields": "Please fill out Username and Password."
+    }
+  },
+
+  "productAdded": "Product added"
+}

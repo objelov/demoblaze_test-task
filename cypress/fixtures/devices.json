@@ -1,0 +1,9 @@
+{
+  "Samsung": [
+    {
+      "image": "imgs/galaxy_s6.jpg",
+      "model": "Samsung galaxy s6",
+      "price": "360"
+    }
+  ]
+}
